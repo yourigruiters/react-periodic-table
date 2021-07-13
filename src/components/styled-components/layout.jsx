@@ -1,4 +1,4 @@
-import Styled from 'styled-components'
+import Styled from "styled-components";
 
 export const StyledTable = Styled.div`
     display: grid;
@@ -6,4 +6,4 @@ export const StyledTable = Styled.div`
     width: 100%;
     height: auto;
     padding: 20px;
-`
+`;
